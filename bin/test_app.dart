@@ -1,3 +1,4 @@
-void main(List<String> arguments) {
-  print('Hello world');
+void main() {
+  const pi = 3.14;
+  final name = 'konstanitn';
 }
