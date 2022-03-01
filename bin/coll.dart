@@ -9,7 +9,7 @@ void main(List<String> args) {
   ];
 
   //Фиксированные списки
-  List ListofValue = List.filled(5, 0); //динамический список
+  List ListofValue = List.filled(5, 0); //список с динамическим содержимым
   List<int> numberList = List.filled(5, 0);
   numberList[0] = 22; //insert operation
   //numberList[1]=null;
